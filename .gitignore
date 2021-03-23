@@ -6,7 +6,7 @@
 .pnp.js
 
 # hidden 
-.travis.yml
+
 
 # testing
 /coverage
