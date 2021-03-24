@@ -16,13 +16,13 @@
 import React, { Component } from "react";
 import { HashRouter as Router, Switch, Route } from "react-router-dom";
 // ! pages
-import LoadHomePage from "../components/home/HomePage";
-import LoadAboutPage from "../pages/views/about";
-import LoadProjectsPage from "../pages/views/projects";
+import LoadHomePage from "./components/home/HomePage";
+import LoadAboutPage from "./pages/views/about";
+import LoadProjectsPage from "./pages/views/projects";
 // ? mics
-import Footer from "../components/footer";
-import Navbar from "../components/navBar";
-import NF_404 from "../components/NF_404";
+import Footer from "./components/footer";
+import Navbar from "./components/navBar";
+import NF_404 from "./components/NF_404";
 
 export class App extends Component {
 	render() {
