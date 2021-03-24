@@ -12,7 +12,7 @@ export default function footer() {
 						alt="Footer link to Nextjs"
 					>
 						Powered by ThatGuyJamal
-						<img src={logo}></img>
+						<img src={logo} alt="github logo"></img>
 					</a>
 				</footer>
 			</div>

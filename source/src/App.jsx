@@ -1,12 +1,12 @@
 import React from "react";
-import LoadCustomRouter from "./pages/CustomRouter";
-
+import LoadCustomRouter from './route/CustomRouter';
+import { HashRouter as Router } from "react-router-dom";
 function App() {
 	return (
 		<div>
-			<div>
+			<Router>
 				<LoadCustomRouter></LoadCustomRouter>
-			</div>
+			</Router>
 		</div>
 	);
 }

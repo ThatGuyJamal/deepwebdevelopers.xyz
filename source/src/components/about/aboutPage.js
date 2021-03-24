@@ -18,7 +18,7 @@ export default function aboutPage() {
 							</a>
 						</div>
 					</Link>
-					<Link to="/views/about">
+					<Link to="/">
 						<div className="about_grid">
 							<a className="about_card">
 								<h3>Contact Information &rarr;</h3>

@@ -48,10 +48,8 @@
 	
 	
 }
-.footer a:hover {
-	color: #dab40b;
-	text-decoration: underline;
-}
+
+/* ? footer animations */
 
 @keyframes footer_animation {
 	5% {
