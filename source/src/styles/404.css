@@ -1,0 +1,36 @@
+.this2 {
+	align-items: center;
+	display: flex;
+	margin-top: 80px;
+}
+
+.this {
+	position: absolute;
+	margin-bottom: 80px;
+}
+
+.basic-link-this {
+	color: teal;
+}
+.basic-link-this:hover {
+	color: teal;
+	background-color: gray;
+	transform: rotate(-90deg);
+}
+
+@media screen and (max-width: 960px) {
+	.this2 {
+		align-items: center;
+		display: flex;
+		margin-top: 60px;
+	}
+
+	.this {
+		margin-bottom: 70px;
+		position: absolute;
+	}
+
+	.basic-link-this {
+		color: teal;
+	}
+}
