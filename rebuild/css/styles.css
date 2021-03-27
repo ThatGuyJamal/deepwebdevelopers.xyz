@@ -1,3 +1,17 @@
+.WIP_code_block {
+	display: block;
+	box-sizing: border-box;
+	text-align: center;
+	font-size: 18px;
+	width: 100%;
+	padding: 16px 24px;
+	background: rgba(44, 37, 44, 0.8);
+	border: 1px solid #7f797f;
+	border-radius: 8px;
+	margin-bottom: 16px;
+	color: white;
+}
+
 .container {
 	min-height: 100vh;
 	padding: 0 0.5rem;
@@ -19,7 +33,7 @@
 .def_code_block {
 	display: block;
 	box-sizing: border-box;
-	text-align: left;
+	text-align: center;
 	font-size: 18px;
 	width: 100%;
 	padding: 14px 26px;
@@ -42,11 +56,9 @@
 	animation-delay: 1s;
 	animation-name: footer_animation;
 	animation-duration: 15s;
-	 /*  ? infinite to make run forever  */
-	 animation-iteration-count: 3; 
+	/*  ? infinite to make run forever  */
+	animation-iteration-count: 3;
 	position: absolute;
-	
-	
 }
 
 /* ? footer animations */
@@ -76,8 +88,6 @@
 	align-items: center;
 	color: #fff;
 }
-
-
 
 /* ? Home page title func */
 
@@ -266,7 +276,70 @@
 .projects_code_block {
 	display: block;
 	box-sizing: border-box;
+	text-align: center;
+	font-size: 18px;
+	width: 100%;
+	padding: 16px 24px;
+	background: rgba(44, 37, 44, 0.8);
+	border: 1px solid #7f797f;
+	border-radius: 8px;
+	margin-bottom: 16px;
+}
+
+.projects_text p {
+	color: rgb(255, 255, 100);
+	display: block;
+	box-sizing: border-box;
 	text-align: left;
+	font-size: 18px;
+	width: 100%;
+
+	margin-bottom: 16px;
+}
+/* connects with projects_text p */
+this_custom_thing {
+	color: rgb(111, 111, 221)
+}
+
+this_custom_thing a:hover {
+	text-decoration: underline;
+	color:rgb(255, 255, 100)
+}
+
+.projects_link a {
+	color:rgba(44, 37, 44, 0.8)
+}
+
+
+
+/* ? Contact page */
+
+.contact_container {
+	min-height: 100vh;
+	padding: 0 0.5rem;
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	align-items: center;
+}
+
+.contact_main {
+	padding: 5rem 0;
+	flex: 1;
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	color: white;
+}
+
+.contact_header h2 {
+	font-size: 2.3rem;
+}
+
+.contact_code_block {
+	display: block;
+	box-sizing: border-box;
+	text-align: center;
 	font-size: 18px;
 	width: 100%;
 	padding: 16px 24px;
@@ -280,10 +353,10 @@
 
 @media (max-width: 600px) {
 	.def_code_block {
-		display: block;
-		box-sizing: border-box;
-		text-align: left;
-		font-size: 18px;
+		display: block ;
+		box-sizing: border-box !important;
+		text-align: center;
+		font-size: 15px !important;
 		width: 100%;
 		padding: 9px 10px;
 		background: rgba(44, 37, 44, 0.8);
@@ -303,15 +376,15 @@
 		flex-direction: column;
 	}
 
-	.title h1 {
+	.title h1  {
 		margin: 0;
 		line-height: 1.15;
-		font-size: 2rem;
+		font-size: 2rem !important;
 		color: white;
 	}
 
 	.title a {
-		font-size: 2rem;
+		font-size: 2rem !important;
 		color: #5c9c62;
 		text-decoration: none;
 	}
