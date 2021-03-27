@@ -1,5 +1,5 @@
 # DeepWebDevelopers Home Page
-![languages logo pic](https://img.shields.io/github/languages/count/ThatGuyJamal/deepwebdevelopers.xyz)![top_lang_pic](https://img.shields.io/github/languages/top/ThatGuyJamal/deepwebdevelopers.xyz)![GitHub Repo stars](https://img.shields.io/github/stars/ThatGuyJamal/deepwebdevelopers.xyz?style=social)
+![languages logo pic](https://img.shields.io/github/languages/count/ThatGuyJamal/deepwebdevelopers.xyz) ![top_lang_pic](https://img.shields.io/github/languages/top/ThatGuyJamal/deepwebdevelopers.xyz) ![GitHub Repo stars](https://img.shields.io/github/stars/ThatGuyJamal/deepwebdevelopers.xyz?style=social)
 
 ## About Us
 
