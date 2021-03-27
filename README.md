@@ -14,7 +14,7 @@ The main site is still in development but you can view the module im working on 
 | -------- | ------------------------------------------------------------------------------------- | ---------------- |
 | HTML     | [/views/pages](./views/) | 35%              |
 | CSS      | [/css](./css/)           | 32%              |
-| JS       | /[js](./js/)             | 0%               |
+| JS       | [/js](./js/)             | 0%               |
 
 ### Whats coming next?
 
