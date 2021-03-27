@@ -12,8 +12,8 @@ The main site is still in development but you can view the module im working on 
 
 | Language | Location                                                                              | Completion track |
 | -------- | ------------------------------------------------------------------------------------- | ---------------- |
-| HTML     | [/views/pages](https://github.com/ThatGuyJamal/deepwebdevelopers.xyz/tree/main/views) | 35%              |
-| CSS      | [/css](https://github.com/ThatGuyJamal/deepwebdevelopers.xyz/tree/main/css)           | 32%              |
+| HTML     | [/views/pages](./views/) | 35%              |
+| CSS      | [/css](./css/)           | 32%              |
 | JS       | /[js](./js/)             | 0%               |
 
 ### Whats coming next?
