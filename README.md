@@ -10,8 +10,12 @@ The main site is still in development but you can view the module im working on 
 
 ### Project layout
 
-| Language | Location     | Completion track |
-| -------- | ------------ | ---------------- |
-| HTML     | /views/pages | 35%              |
-| CSS      | /css             | %32
-| JS | /js | 0%
+| Language | Location                                                                              | Completion track |
+| -------- | ------------------------------------------------------------------------------------- | ---------------- |
+| HTML     | [/views/pages](https://github.com/ThatGuyJamal/deepwebdevelopers.xyz/tree/main/views) | 35%              |
+| CSS      | [/css](https://github.com/ThatGuyJamal/deepwebdevelopers.xyz/tree/main/css)           | 32%              |
+| JS       | /[js](./js/)             | 0%               |
+
+### Whats coming next?
+
+You can read my todo list [here](./assets/TODO.md)
