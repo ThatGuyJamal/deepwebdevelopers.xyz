@@ -1,5 +1,17 @@
-# deepwebdevelopers.xyz
+# DeepWebDevelopers Home Page
 
-Site is in development. You can view the site live [here](https://thatguyjamal.github.io/deepwebdevelopers.xyz/)
+## About Us
 
-More info coming soon! To get update watch this branch.# deepwebdevelopers.xyz
+DeepWebDevelopers I a coding organization created and ran by [ThatGuyJamal](https://github.com/ThatGuyJamal). Our goal is to help and teach others with programming of any kind. Make sure to check out our projects on the [organization page](https://github.com/DeepWebDevelopers).
+
+## Link to beta page
+
+The main site is still in development but you can view the module im working on using [this link](https://thatguyjamal.github.io/deepwebdevelopers.xyz/)
+
+### Project layout
+
+| Language | Location     | Completion track |
+| -------- | ------------ | ---------------- |
+| HTML     | /views/pages | 35%              |
+| CSS      | /css             | %32
+| JS | /js | 0%
