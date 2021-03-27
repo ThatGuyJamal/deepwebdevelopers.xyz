@@ -2,11 +2,13 @@
 
 > [DONE] Build project template
 
-> [] Add comany about page.
+> [DONE] Add contact page about page.
 
-> [] Add projects page
+> [] Add projects page & finish it
 
 > [] Mobile support for website
 
 > [] Add github stats for website
+
+> [] Add more js animations
 

@@ -12,10 +12,14 @@ The main site is still in development but you can view the module im working on 
 
 | Language | Location                                                                              | Completion track |
 | -------- | ------------------------------------------------------------------------------------- | ---------------- |
-| HTML     | [/views/pages](./views/) | 35%              |
+| HTML     | [/views](./views/) | 35%              |
 | CSS      | [/css](./css/)           | 32%              |
 | JS       | [/js](./js/)             | 0%               |
 
 ### Whats coming next?
 
 You can read my todo list [here](./assets/TODO.md)
+
+### Want to join our community? 
+
+[Discord](https://discord.com/invite/NbqBQbaejS) and to contribute to the website simply make a pull request with your additions.
