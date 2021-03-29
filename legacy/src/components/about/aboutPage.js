@@ -44,7 +44,7 @@ export default function aboutPage() {
 						</div>
 					</Link>
 
-					<a className="about_link">
+					<a className="main_link">
 						<Link to="/">
 							<a>Back to home</a>
 						</Link>

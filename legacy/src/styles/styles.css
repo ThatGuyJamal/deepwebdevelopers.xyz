@@ -29,6 +29,16 @@
 	margin-bottom: 12px;
 }
 
+.main_link a {
+	text-decoration: underline;
+}
+
+.main_link a:hover {
+	text-decoration: underline;
+	color: #5c9c62;
+	font-size: 1.2rem;
+}
+
 /* ? Footer functions */
 
 .footer {
@@ -185,15 +195,7 @@
 	font-size: 2.5rem;
 }
 
-.about_link a {
-	text-decoration: underline;
-}
 
-.about_link a:hover {
-	text-decoration: underline;
-	color: #5c9c62;
-	font-size: 1.2rem;
-}
 
 /* Grid and cards */
 .about_grid {

@@ -195,16 +195,6 @@
 	font-size: 2.5rem;
 }
 
-.about_link a {
-	text-decoration: underline;
-}
-
-.about_link a:hover {
-	text-decoration: underline;
-	color: #5c9c62;
-	font-size: 1.2rem;
-}
-
 /* Grid and cards */
 .about_grid {
 	display: grid;
@@ -298,19 +288,17 @@
 }
 /* connects with projects_text p */
 this_custom_thing {
-	color: rgb(111, 111, 221)
+	color: rgb(111, 111, 221);
 }
 
 this_custom_thing a:hover {
 	text-decoration: underline;
-	color:rgb(255, 255, 100)
+	color: rgb(255, 255, 100);
 }
 
 .projects_link a {
-	color:rgba(44, 37, 44, 0.8)
+	color: rgba(44, 37, 44, 0.8);
 }
-
-
 
 /* ? Contact page */
 
@@ -347,45 +335,4 @@ this_custom_thing a:hover {
 	border: 1px solid #7f797f;
 	border-radius: 8px;
 	margin-bottom: 16px;
-}
-
-/* ! MOBILE CSS DATA */
-
-@media (max-width: 600px) {
-	.def_code_block {
-		display: block ;
-		box-sizing: border-box !important;
-		text-align: center;
-		font-size: 15px !important;
-		width: 100%;
-		padding: 9px 10px;
-		background: rgba(44, 37, 44, 0.8);
-		border: 1px solid #7f797f;
-		border-radius: 8px;
-		margin-bottom: 16px;
-	}
-
-	.grid {
-		display: grid;
-		align-items: center;
-		justify-content: center;
-		flex-wrap: wrap;
-		max-width: 800px;
-		margin-top: 0.8rem;
-		width: 100%;
-		flex-direction: column;
-	}
-
-	.title h1  {
-		margin: 0;
-		line-height: 1.15;
-		font-size: 2rem !important;
-		color: white;
-	}
-
-	.title a {
-		font-size: 2rem !important;
-		color: #5c9c62;
-		text-decoration: none;
-	}
 }

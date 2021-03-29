@@ -13,7 +13,7 @@ export default function projectsPage() {
 					<div className="projects_code_block">
 						<code>Coming soon!</code>
 					</div>
-					<a className="about_link">
+					<a className="main_link">
 						<Link to="/">
 							<a>Back</a>
 						</Link>
