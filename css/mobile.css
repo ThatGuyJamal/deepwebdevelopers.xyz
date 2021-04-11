@@ -1,5 +1,14 @@
 /* ! MOBILE CSS DATA */
 
+/* Will be added soon! */
+:root {
+	--color-gold: #dab40b;
+	--color-green: #5c9c62;
+	--color-purple: #821491;
+	--code-block-color: rgba(44, 37, 44, 0.8);
+	--code-block-border-color: 1px solid #7f797f;
+  }
+
 @media (max-width: 600px) {
 	.def_code_block {
 		display: block;
